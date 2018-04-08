@@ -17,3 +17,7 @@ incase it gets broken in a new commit, you can view the diffs and edit the file 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 well i've already done it and it was a mess, but i think github may have been too complex to learn to actually use in the scenario. we had a file naming convention that involved writing the date in a specific way. it wasn't a coding project, so perhaps it was good enough. there should be a git for design. lol
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+if you have a possible idea but you're working collaboratively and want to test your idea out without interfering with other's master copy. if you want to share what you've done then you can share your branch and make a pull request.
